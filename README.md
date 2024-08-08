@@ -1,3 +1,3 @@
-# calculator-app
+ # calculator-app
 This is my first repository.
-Author - Tariq Mehmood
+Author - Tariq Mehmood (Tariq Mehmood)
